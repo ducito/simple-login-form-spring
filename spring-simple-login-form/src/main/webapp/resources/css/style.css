@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    padding-top: 20px;
+}
+.content{
+    width: 50%;
+    margin: 0 auto;
+    float: none;
+    border:1px solid #204d74;
+    padding: 10px;
+}
